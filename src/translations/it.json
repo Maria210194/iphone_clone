@@ -1,0 +1,50 @@
+{
+  "HERO": {
+    "TITLE": "iPhone 15 Pro",
+    "BUY": "Acquista",
+    "COST": "Da € 51,62 al mese per 24 mesi a tasso zero o € 1.239"
+  },
+  "HIGH": {
+    "TITLE": "Prima di tutto, le novità.",
+    "LINK1": "Guarda il video",
+    "LINK2": "Guarda l'evento"
+  },
+  "MODEL": "Dai un’occhiata da vicino.",
+  "FEATURES": {
+    "DETAILS": "E ora tutti i dettagli.",
+    "TITANIO": "Forgiato nel titanio.",
+    "TEXT1": "iPhone 15 Pro ",
+    "TEXT2": "il primo iPhone con un design in titanio di grado aerospaziale",
+    "TEXT3": ", la stessa lega usata per i veicoli inviati su Marte.",
+    "TEXT4": "Il titanio è uno dei metalli con il miglior rapporto resistenza/peso, e questo ci ha permesso di realizzare",
+    "TEXT5": "i modelli Pro più leggeri di sempre.",
+    "TEXT6": "Sentirai la differenza appena li prendi in mano."
+  },
+  "HIW": {
+    "TITLE1": "Chip A17 Pro.",
+    "TITLE2": "Un mostro nel gaming.",
+    "SUBTITLE": "Eccolo: il più grande redesign nella storia delle GPU Apple.",
+    "GAME": "Honkai: Star Rail",
+    "CHIP": "Il chip A17 Pro apre un’era totalmente nuova per iPhone, portandoti",
+    "PERF": "le performance grafiche migliori di sempre",
+    "TEXT1": "I giochi su dispositivo mobile saranno superimmersivi",
+    "TEXT2": ", con ambienti incredibilmente dettagliati e personaggi più realistici. E grazie a velocità ed efficienza al top nel settore, A17 Pro ti fa volare alto.",
+    "NEW1": "Nuova",
+    "NEW2": "GPU di livello Pro",
+    "NEW3": "con 6 core"
+  },
+  "CAMERA": {
+    "TITLE1": "Una fotocamera incredibile,",
+    "TITLE2": "come la realtà.",
+    "SUBTITLE": "Ritratti di nuova generazione e libertà sfrenata nelle inquadrature: scopri cosa puoi fare con il più potente sistema di fotocamere per iPhone che abbiamo mai creato.",
+    "TEXT": "Foto di un’iguana verde scattata con la fotocamera principale da 48MP"
+  },
+  "FOOTER": {
+    "TITLE1": "Altri modi per acquistare:",
+    "TITLE2": "trova l’Apple Store ",
+    "TITLE3": "o il rivenditore ",
+    "TITLE4": "più vicino.",
+    "TITLE5": "O chiama il numero 800 554 533.",
+    "COPY": "Copright @ 2024 Apple Inc. Tutti i diritti riservati."
+  }
+}
